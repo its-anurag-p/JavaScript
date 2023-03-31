@@ -1,0 +1,10 @@
+<! DOCTYPE html>
+<html>
+<body>
+<h1>My Web Page</h1>
+<p id="demo"> A Paragraph.</p>
+<button type="button" onclick= "myfunction()">Nirali Prakashan</button>
+<p><strong>Note:</strong> The actual script is an external script file called "myScript.js" .</p>
+<script type-"text/javascript" src="myScript.js"></script>
+</body>
+</html>
