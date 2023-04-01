@@ -4,4 +4,4 @@ use the method shown here to have html-css code in one file.
 
 here, under the script tag usage we have commanded the console to display "hello world" message.
 
-If you are using the chrome browser after opening the html-css document file with browser go to (3 vertical dots on top rhs) options> more tools> developer options>
+If you are using the chrome browser after opening the html-css document file with browser go to (3 vertical dots on top rhs) options> more tools> developer tools> console> ...which will diplay the output.
