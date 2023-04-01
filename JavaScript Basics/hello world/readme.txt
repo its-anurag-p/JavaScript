@@ -7,3 +7,6 @@ here, under the script tag usage we have commanded the console to display "hello
 If you are using the chrome browser after opening the html-css document file with browser go to (3 vertical dots on top rhs) options> more tools> developer tools> console> ...which will diplay the output.
 
 
+<img width="1280" alt="gitproj JsHellow" src="https://user-images.githubusercontent.com/91464100/229292147-e45ef820-2e61-4e6d-957c-ce46d9014866.png">
+
+
