@@ -1,2 +1,2 @@
 # JavaScript
-JavaScript Basics Learning Oriented Project
+JavaScript Basics || Practical Learning Oriented Project
