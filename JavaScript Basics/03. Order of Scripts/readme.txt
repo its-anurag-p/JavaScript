@@ -6,4 +6,4 @@ Provided below the image of the output to understand efficiently. Btw, console i
 
 
 
-<img width="1280" alt="gitproj JsScriptsorder" src="https://user-images.githubusercontent.com/91464100/229292884-ab1a6735-801b-42f2-9144-10fd9df83cb0.png">
+<img width="1280" alt="scriptsorder" src="https://user-images.githubusercontent.com/91464100/229364661-af11dc64-fc6e-4f2f-ac54-43dbfda6631a.png">
