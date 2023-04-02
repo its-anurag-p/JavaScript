@@ -1,4 +1,4 @@
-this is a html-css code for the browser console to display: "hello world" 
+This is a html-css code for the browser console to display: "hello world" 
 you can use external referencing for a js file which should be in the same directory as the html file or 
 use the method shown here to have html-css code in one file.
 
