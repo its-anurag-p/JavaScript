@@ -1,3 +1,6 @@
+
+Follow folders as per the number order to understand the project efficiently.
+
 Visual Studio code or Atom (Text Editor) can be used. 
 
 If you have a lot of JavaScript, prefer to have it on an external reference file method.
