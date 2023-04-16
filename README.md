@@ -2,4 +2,4 @@
 JavaScript Basics || Practical Learning Oriented Project
 
 
-![jslogo](https://user-images.githubusercontent.com/91464100/229361143-db9c823d-3443-4cbe-85ac-df60c91cc8f4.png)
+![js logo official](https://user-images.githubusercontent.com/91464100/232341203-ee19d05e-6f9d-4de9-b794-04b33d102721.png)
